@@ -1,2 +1,2 @@
-# food_order_app
+# FoodOrderApp
 React application for ordering food.
